@@ -77,6 +77,3 @@ class Parser:
 
 Parser('RS_Via-3', extension='xml').run()
 Parser('RS_ViaOW', extension='xml').run()
-"""
-example for github.com
-"""
